@@ -142,6 +142,7 @@ Agent: You’re welcome! Let me know if you want to explore any other plans 🙂
 ## Author
 
 **Tamanna**  
-AutoStream Conversational AI Assignment
+AutoStream Conversational AI Agent
+
 
 
