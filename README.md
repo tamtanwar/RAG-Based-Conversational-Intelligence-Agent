@@ -1,4 +1,4 @@
-# AutoStream Conversational AI Agent
+# RAG Based Conversational Intelligence Agent
 
 ## Project Overview
 AutoStream Agent is a conversational AI assistant built for a fictional SaaS product, **AutoStream**, which provides automated video editing tools for content creators.  
@@ -142,7 +142,7 @@ Agent: You’re welcome! Let me know if you want to explore any other plans 🙂
 ## Author
 
 **Tamanna**  
-AutoStream Conversational AI Agent
+RAG Based Conversational Intelligence Agent
 
 
 
